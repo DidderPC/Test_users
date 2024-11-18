@@ -6,4 +6,4 @@ print("Test for local git. POINT 1")
 
 print("Test for local git. POINT 2")
 
-
+print("Add second user")
